@@ -14,7 +14,7 @@ This mock API sends requests to an endpoint that will be provided. It responds t
 
 ### 🔥 Pre-Requisites
 
-Make Sure you have completed the workflow of the file `00_PRE-REQUISITES.md` inside `scripts` Directory. You need to have NodeJS and Yarn Package Manager installed. Read out the [documentation](../documentation/00_PRE-REQUISITES.md) for more details.
+Make Sure you have completed the workflow of the file `00_PRE-REQUISITES.md` inside `documentation` Directory. You need to have NodeJS and Yarn Package Manager installed. Read out the [documentation](../documentation/00_PRE-REQUISITES.md) for more details.
 
 ### Global Installation
 

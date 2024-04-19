@@ -1,7 +1,7 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
 
-  // Just-In-Time Mode Configuration
+  // Just-In-Time Node Configuration
   node: "jit",
   
   content: [],

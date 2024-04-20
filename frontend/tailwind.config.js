@@ -4,7 +4,11 @@ module.exports = {
   // Just-In-Time Node Configuration
   node: "jit",
   
-  content: [],
+  // Template Paths Configuration
+  content: [
+    "./index.html",
+    "./src/**/*.{js,ts,jsx,tsx}"
+  ],
   theme: {
     extend: {},
   },

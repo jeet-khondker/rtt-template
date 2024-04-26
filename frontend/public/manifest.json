@@ -1,6 +1,6 @@
 {
   "short_name": "RTT Template",
-  "name": "Create React App Sample",
+  "name": "ReactJS + TypeScript + Tailwind CSS Project Template",
   "icons": [
     {
       "src": "favicon.ico",

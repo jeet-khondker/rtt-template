@@ -14,4 +14,5 @@
         "source.fixAll.tslint": "explicit",
         "source.organizeImports": "explicit"
     },
+    "eslint.enable": true,
 }

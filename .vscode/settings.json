@@ -15,4 +15,6 @@
         "source.organizeImports": "explicit"
     },
     "eslint.enable": true,
+    // emmet
+    "emmet.triggerExpansionOnTab": true,
 }

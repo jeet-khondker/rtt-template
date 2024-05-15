@@ -17,4 +17,7 @@
     "eslint.enable": true,
     // emmet
     "emmet.triggerExpansionOnTab": true,
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    }
 }

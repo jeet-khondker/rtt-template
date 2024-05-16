@@ -38,6 +38,7 @@ yarn lint
     "plugin:react-hooks/recommended"
   ],
   "rules": {
+    "no-undef": 0,
     "react/react-in-jsx-scope": "off",
     "react-hooks/rules-of-hooks": "error",
     "no-console": "error",

@@ -27,3 +27,10 @@ yarn start
 ```sh
 http://localhost:3001/
 ```
+
+## ESLint Execution
+
+```sh
+cd frontend
+yarn eslint . --config eslint.config.mjs
+```

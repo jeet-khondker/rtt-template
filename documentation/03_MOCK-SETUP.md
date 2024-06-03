@@ -39,12 +39,14 @@ Project-Based Installation installs JSON Server locally for just a particular pr
 #### Using NPM (Node Package Modules) Package Manager
 
 ```sh
+cd frontend
 npm install json-server
 ```
 
 #### Using Yarn Package Manager
 
 ```sh
+cd frontend
 yarn add json-server
 ```
 

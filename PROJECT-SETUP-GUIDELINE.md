@@ -38,13 +38,20 @@ Before proceeding, please make sure you check out the [00_PRE-REQUISITES](/docum
 
 👉🏻&emsp;[CICD Branch](documentation/02_GIT-BRANCHING/02-13_CICD-BRANCH.md)
 
-**Mock Data Setup** : [Mock Data Setup](documentation/02_MOCK-SETUP.md)
-
 **FrontEnd Setup (ReactJS & TypeScript Installation)** : [Frontend Setup](documentation/03_FRONTEND-SETUP.md)
 
 **Initial Code Refactorization** : [Initial Frontend Code Refactorization](documentation/03-01_FRONTEND-INITIAL-REFACTOR.md)
 
-**Tailwind CSS Setup** : [Tailwind CSS Installation & Setup](documentation/04_TAILWINDCSS-SETUP.md)
+**Mock Data Setup** : [Mock Data Setup](documentation/04_MOCK-SETUP.md)
+
+**Tailwind CSS Setup** : [Tailwind CSS Installation & Setup](documentation/05_TAILWINDCSS-SETUP.md)
+
+**IDE & Environment Setup** : [IDE & Environment Setup](documentation/06_IDE-ENV-SETUP.md)
+
+### 📚 Project Maintenance & Management : 
+1. **Libraries Upgrade Procedure** : [Libraries Upgrade Procedure](documentation/07_LIBRARIES-UPGRADE.md)
+
+2. **NodeJS Upgrade Using CLI Procedure** : [NodeJS Upgrade Using CLI Procedure](documentation/08_NODEJS-UPGRADE-USING-CLI.md)
 
 ## References 📚
 
